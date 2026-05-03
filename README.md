@@ -1,8 +1,6 @@
 # Batuhan Yılmaz
 
-## AI Security Engineer & Backend Architect | Expert in LLM Orchestration & Defensive AI
-
-Python tabanlı yüksek performanslı backend sistemleri ve yapay zeka çözümleri geliştiriyorum. Red Team metodolojileri ve yapay zeka güvenliği (Adversarial AI, Prompt Injection Defense) konularındaki uzmanlığımla, güvenli ve ölçeklenebilir yapay zeka orkestrasyonları tasarlıyorum. CI/CD süreçlerinden model güvenliğine kadar tüm yaşam döngüsünü yönetiyorum.
+## Backend Architect & AI Developer | Expert in LLM Orchestration | Software Developer
 
 ---
 
